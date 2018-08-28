@@ -31,4 +31,4 @@ def using_concat(arr1,arr2)
 end
 
 def using_insert(arr,ele)
-  
+  arr.insert(ele,3)
