@@ -33,5 +33,3 @@ end
 def using_insert(arr,ele)
   arr.insert(3,ele)
 end
-
-def 
